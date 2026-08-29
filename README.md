@@ -4,9 +4,9 @@
 </p>
 
 <!-- Typing effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+High-Performance+Systems;Secure+Client-Server+Architectures;Golang+%7C+Python+%7C+Networking;Galaxy+Neon+Purple+Vibes" />
-</p>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+High-Performance+Systems;Secure+Client-Server+Architectures;Golang+%7C+Python+%7C+Networking;Galaxy+Neon+Purple+Vibes](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=DDF753&width=435&lines=Building+High-Performance+Systems;C%23+%7C+Html+%7C+PHP+%7C+NodeJS;Multimedia+Automation)" />
+  </p>
 
 ---
 
