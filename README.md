@@ -1,6 +1,6 @@
 <!-- Galaxy Neon Header -->
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=venom&color=0:7C3AED,100:0EA5E9&height=300&color=gradient&text=Minh%20Nhat&reversal=false&fontAlignY=50&desc=Software%20Developer&descAlign=50&descAlignY=63&animation=scaleIn&fontColor=EDE9FE](https://capsule-render.vercel.app/api?type=venom&color=0:7C3AED,100:0EA5E9&height=220&text=Minh%20Nhat&fontSize=48&fontColor=EDE9FE&animation=twinkling&desc=Software%20Developer&descAlignY=65)"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C3AED,100:0EA5E9&height=220&text=Minh%20Nhat&fontSize=48&fontColor=EDE9FE&animation=twinkling&desc=Software%20Developer&descAlignY=65"/>
 </p>
 
 <!-- Typing effect -->
