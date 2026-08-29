@@ -11,10 +11,10 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Golang-0EA5E9?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System-1E1B4B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C%23-7C3AED?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-0EA5E9?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-1E1B4B?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
 ---
@@ -22,6 +22,6 @@
 ## 🌌 About Me
 
 ```txt
-Role      : Backend / System Developer
+Role      : Backend / Fullstack Developer
 Focus     : Performance • Security • Scalability
-Theme     : Galaxy • Neon • Purple
+Stack     : C# • HTML • PHP • Node.js
