@@ -5,7 +5,7 @@
 
 <!-- Typing effect -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=DDF753&width=435&lines=Building+High-Performance+Systems;C%23+%28.NET%29+Html+%7C+PHP+%7C+NodeJS;Multimedia+Automation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=DDF753&width=435&lines=Building+High-Performance+Systems;C%23+%28.NET%29+%7C+Html+%7C+PHP+%7C+NodeJS;Multimedia+Automation" />
   </p>
 
 ---
