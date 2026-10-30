@@ -22,6 +22,6 @@
 ## 🌌 About Me
 
 ```txt
-Role      : Backend / Fullstack Developer
+Role      : Backend / Dotnet Developer
 Focus     : Performance • Security • Scalability
 Stack     : C# • HTML • PHP • Node.js
